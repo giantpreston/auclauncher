@@ -1,0 +1,43 @@
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\App.g.cs
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1_MarkupCompile.cache
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.g.resources
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.AssemblyInfoInputs.cache
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.AssemblyInfo.cs
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.csproj.CoreCompileInputs.cache
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.sourcelink.json
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\bin\Debug\net8.0-windows\AUCLauncherv1.exe
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\bin\Debug\net8.0-windows\AUCLauncherv1.deps.json
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\bin\Debug\net8.0-windows\AUCLauncherv1.runtimeconfig.json
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\bin\Debug\net8.0-windows\AUCLauncherv1.dll
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\bin\Debug\net8.0-windows\AUCLauncherv1.pdb
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.dll
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\refint\AUCLauncherv1.dll
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.pdb
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\AUCLauncherv1.genruntimeconfig.cache
+D:\Among Us Classic\Launcher\Repo\AUCLauncherv1\AUCLauncherv1\obj\Debug\net8.0-windows\ref\AUCLauncherv1.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\AUCLauncherv1.exe
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\AUCLauncherv1.deps.json
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\AUCLauncherv1.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\AUCLauncherv1.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\AUCLauncherv1.pdb
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1_MarkupCompile.cache
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.g.resources
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.sourcelink.json
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\refint\AUCLauncherv1.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.pdb
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\ref\AUCLauncherv1.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLauncherv1.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Code-Related Projects\AUCLauncherv1\src\obj\Debug\net8.0-windows\AUCLaunc.F91C04AC.Up2Date
