@@ -44,3 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 - This project was made possible by open-source contributions and .NET developers.
+- This project is currently in development and not ready for release just yet. It will still go through many changes before being fully released to the public.
