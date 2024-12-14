@@ -13,8 +13,8 @@ Welcome to the **Among Us: Classic Launcher** repository! This project allows pl
 - .NET Framework 4.8 or higher (included with Windows 10 and above).
 - An internet connection for downloading the game files.
 
-## Installation
-To use the launcher, follow these steps:
+## Building from source
+To build the launcher from the source code, follow these steps:
 
 ### 1. Clone the Repository
 You can download the repository by cloning it to your local machine using the following command:
@@ -23,10 +23,13 @@ git clone https://github.com/giantpreston/auclauncher.git
 ```
 
 ### 2. Build the Project
-Build the project using **Build > Build Solution** in Visual Studio.
+Build the project using **Build > Build Solution** in Visual Studio. (Assuming you already opened the project by this point)
 
 ### 3. Run the Launcher
 After building the project, you can run the launcher directly from Visual Studio, or by navigating to the compiled `bin` folder and executing the `.exe` file.
+
+## Installation
+- Simply download the latest release available from github and run the .exe file.
 
 ## Usage
 
